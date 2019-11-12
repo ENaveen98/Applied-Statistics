@@ -15,3 +15,16 @@ The book [Introduction to Bayesian Statistics, Bolstad](https://onlinelibrary.wi
 * Comparing Bayesian and Frequentist Inferences for Mean
 * Bayesian Inference for Difference Between Means
 * Bayesian Inference for Simple Linear Regression
+
+Following are some of the highlighting points for reference between Bayesian and Frequentist.
+
+### Bayesian 
+1) use of probabilities for both hypotheses and data.
+2) depends on the prior and likelihood of observed data.
+3) maybe computationally intensive due to integration over many parameters.
+
+### Frequentist
+1) never uses or gives the probability of a hypothesis.
+2) depends on the likelihood for both observed and unobserved data.
+3) does not require a prior.
+4) tends to be less computationally intensive.
